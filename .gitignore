@@ -1,1 +1,23 @@
+/guide-documentation/.DS_Store
 /guide-documentation/node_modules
+/guide-documentation/dist
+
+
+# local env files
+/guide-documentation/.env.local
+/guide-documentation/.env.*.local
+
+# Log files
+/guide-documentation/npm-debug.log*
+/guide-documentation/yarn-debug.log*
+/guide-documentation/yarn-error.log*
+/guide-documentation/pnpm-debug.log*
+
+# Editor directories and files
+/guide-documentation/.idea
+/guide-documentation/.vscode
+/guide-documentation/*.suo
+/guide-documentation/*.ntvs*
+/guide-documentation/*.njsproj
+/guide-documentation/*.sln
+/guide-documentation/*.sw?
